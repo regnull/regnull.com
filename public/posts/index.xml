@@ -6,8 +6,15 @@
     <description>Recent content in Posts on Leo&#39;s Page</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 10 Feb 2025 20:30:09 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 11 Feb 2025 08:04:12 -0500</lastBuildDate>
     <atom:link href="https://regnull.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Llm Parameters</title>
+      <link>https://regnull.com/posts/llm-parameters/</link>
+      <pubDate>Tue, 11 Feb 2025 08:04:12 -0500</pubDate>
+      <guid>https://regnull.com/posts/llm-parameters/</guid>
+      <description>&lt;h1 class=&#34;heading&#34; id=&#34;understanding-llm-call-parameters-a-complete-guide&#34;&gt;&#xA;  Understanding LLM Call Parameters: A Complete Guide&lt;span class=&#34;heading__anchor&#34;&gt; &lt;a href=&#34;#understanding-llm-call-parameters-a-complete-guide&#34;&gt;#&lt;/a&gt;&lt;/span&gt;&#xA;&lt;/h1&gt;&lt;p&gt;Large Language Models (LLMs) have become essential in powering applications like chatbots, content generators, code assistants, and more. When interacting with an LLM, understanding the various call parameters can help fine-tune the model’s behavior, improve the quality of responses, and control the output effectively. This guide dives deep into the most important parameters and how to use them effectively.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 class=&#34;heading&#34; id=&#34;what-are-llm-call-parameters&#34;&gt;&#xA;  What Are LLM Call Parameters?&lt;span class=&#34;heading__anchor&#34;&gt; &lt;a href=&#34;#what-are-llm-call-parameters&#34;&gt;#&lt;/a&gt;&lt;/span&gt;&#xA;&lt;/h2&gt;&lt;p&gt;LLM call parameters are configuration settings that determine how the model generates output. These parameters allow you to control factors like creativity, relevance, and structure of the output.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>My First Post</title>
       <link>https://regnull.com/posts/my-first-post/</link>
