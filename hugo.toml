@@ -1,4 +1,15 @@
 baseURL = 'https://regnull.com/'
 languageCode = 'en-us'
-title = 'Lorem Ipsum'
+title = "Leo's Page"
 theme = "hugo-theme-yue"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.extensions]
+      [markup.goldmark.extensions.passthrough]
+        enable = true
+        [markup.goldmark.extensions.passthrough.delimiters]
+          block = [['\[', '\]'], ['$$', '$$']]
+          inline = [['\(', '\)']]
+[params]
+  math = true
