@@ -1,4 +1,9 @@
-# Understanding LLM Call Parameters: A Complete Guide
++++
+date = '2025-02-11T08:26:07-05:00'
+draft = false
+title = 'Llm Parameters'
++++
+ LLM Call Parameters: A Complete Guide
 
 Large Language Models (LLMs) have become essential in powering applications like chatbots, content generators, code assistants, and more. When interacting with an LLM, understanding the various call parameters can help fine-tune the model’s behavior, improve the quality of responses, and control the output effectively. This guide dives deep into the most important parameters and how to use them effectively.
 
