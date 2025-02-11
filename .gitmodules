@@ -1,3 +1,12 @@
 [submodule "themes/ananke"]
 	path = themes/ananke
 	url = https://github.com/theNewDynamic/gohugo-theme-ananke.git
+[submodule "themes/jughead"]
+	path = themes/jughead
+	url = https://github.com/ananthb/jughead.git
+[submodule "themes/colordrop"]
+	path = themes/colordrop
+	url = git@github.com:humrochagf/colordrop.git
+[submodule "themes/hugo-theme-yue"]
+	path = themes/hugo-theme-yue
+	url = https://github.com/CyrusYip/hugo-theme-yue

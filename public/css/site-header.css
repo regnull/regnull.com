@@ -1,0 +1,12 @@
+#site-nav {
+  justify-content: center;
+  flex-flow: row wrap;
+}
+
+#site-nav h1 {
+  font-size: 3rem;
+}
+
+#site-header-social :where(a, [role="link"]):not(:hover) {
+  text-decoration: none;
+}

@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://regnull.com/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
-theme = 'ananke'
+title = 'Lorem Ipsum'
+theme = "hugo-theme-yue"
