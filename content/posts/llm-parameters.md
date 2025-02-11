@@ -273,6 +273,10 @@ Here are a few general tips for tuning LLM call parameters:
 }
 ```
 
+## Sources
+
+- [Open Router parameters description](https://openrouter.ai/docs/api-reference/parameters)
+
 ---
 
 ## Conclusion
