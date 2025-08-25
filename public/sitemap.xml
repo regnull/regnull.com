@@ -2,13 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://regnull.com/posts/claude-code-deep-dive/</loc>
-    <lastmod>2025-08-25T12:00:00-05:00</lastmod>
+    <loc>https://regnull.com/posts/claude-code-winning-fans/</loc>
+    <lastmod>2025-08-25T14:00:00-05:00</lastmod>
   </url><url>
     <loc>https://regnull.com/</loc>
-    <lastmod>2025-08-25T12:00:00-05:00</lastmod>
+    <lastmod>2025-08-25T14:00:00-05:00</lastmod>
   </url><url>
     <loc>https://regnull.com/posts/</loc>
+    <lastmod>2025-08-25T14:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://regnull.com/posts/claude-code-deep-dive/</loc>
     <lastmod>2025-08-25T12:00:00-05:00</lastmod>
   </url><url>
     <loc>https://regnull.com/posts/llm-parameters/</loc>
