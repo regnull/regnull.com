@@ -6,8 +6,15 @@
     <description>Recent content on Leo&#39;s Page</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 11 Feb 2025 08:26:07 -0500</lastBuildDate>
+    <lastBuildDate>Mon, 25 Aug 2025 12:00:00 -0500</lastBuildDate>
     <atom:link href="https://regnull.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Claude Code Deep Dive</title>
+      <link>https://regnull.com/posts/claude-code-deep-dive/</link>
+      <pubDate>Mon, 25 Aug 2025 12:00:00 -0500</pubDate>
+      <guid>https://regnull.com/posts/claude-code-deep-dive/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;ve been using Claude Code extensively for the last few weeks, and it has largely replaced Cursor as an AI coding agent for me. I like that Claude Code doesn&amp;rsquo;t force you to do things in a certain way, rather it gives you a set of tools that you can use any way you want. Looks like I&amp;rsquo;m not alone in this, here&amp;rsquo;s a &lt;a href=&#34;https://minusx.ai/blog/decoding-claude-code/&#34;&gt;deep dive into the Claude Code magic&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Llm Parameters</title>
       <link>https://regnull.com/posts/llm-parameters/</link>
